@@ -400,8 +400,7 @@ def follow():
                 print tutup + '[' + lime + '+' + tutup + '] Berhasil' + tutup
             else:
                 print tutup + '[' + merah + '!' + tutup + '] Error' + tutup
-        continue
-        continue
+                continue
 
     
     print tutup + '[' + lime + '+' + tutup + '] Done' + tutup
